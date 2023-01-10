@@ -1,6 +1,6 @@
 <h1 align="center">Zdravíme, my jsme Flate 👋</h1>
 <h3 align="center">
-    Digitální agentura se specializací na návrh a vývoj webů a grafický design.
+    Digitální agentura se specializací na grafický design, návrh a vývoj webů.
 </h3>
 <p align="center"><b>📫 Kontaktovat nás můžete zde: info@flate.cz</b></p>
 <hr>
