@@ -36,7 +36,6 @@
 <p align="center">
 <img align="center" width="50%" src="https://flate.cz/assets/Obrazky/landing_iamge.png"></img>
 </p>
-<br>
 <div align="center">
     <h3 align="center">Podpora</h3>
     <p align="center">
