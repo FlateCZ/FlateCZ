@@ -1,5 +1,7 @@
 <h1 align="center">Zdravíme, my jsme Flate 👋</h1>
-<h3 align="justify">Specializujeme se na návrh a vývoj webů a grafický design. S týmem talentovaných designérů a vývojářů vytváříme vzhledově přívětivé a funkční webové stránky, které pomáhají podnikům vybudovat vlastní identitu.</h3>
+<h3 align="center">
+    Specializujeme se na návrh a vývoj webů a grafický design.
+</h3>
 
 <p align="center"><b>📫 Kontaktovat nás můžete zde: info@flate.cz</b></p>
 
