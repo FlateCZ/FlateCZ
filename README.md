@@ -3,8 +3,8 @@
     Digitální agenture se specializací na návrh a vývoj webů a grafický design.
 </h3>
 <p align="center"><b>📫 Kontaktovat nás můžete zde: info@flate.cz</b></p>
-
-<h3 align="center">Naleznete nás na</h3>
+<hr>
+<h3 align="center">Podívejte Se Na Naši Práci</h3>
 <p align="center">
 <a href="https://instagram.com/flate.cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flate.cz" height="30" width="40" /></a>
 <a href="https://www.behance.net/flatecz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="flatecz" height="30" width="40" /></a>
@@ -36,11 +36,3 @@
 <p align="center">
 <img align="center" width="50%" src="https://flate.cz/assets/Obrazky/landing_iamge.png"></img>
 </p>
-<div align="center">
-    <h3 align="center">Podpora</h3>
-    <p align="center">
-        Podpořit nás můžete followem na našch sociálních sítích, jako je náš <a href="https://instagram.com/flate.cz" target="blank">Instagram</a> anebo na <a href="https://www.behance.net/flatecz" target="blank">Behance</a>.
-    </p>
-    <p align="center">Pokud nás chcete podpořit i jinak, třeba přispět na nějakou techniku, můžete nám dole pomocí tlačítka zakoupit kávu</p>
-    <a href="https://www.buymeacoffee.com/FlateCZ"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FlateCZ"/></a>
-</div>
