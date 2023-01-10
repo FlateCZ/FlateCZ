@@ -2,7 +2,6 @@
 <h3 align="center">
     Digitální agenture se specializací na návrh a vývoj webů a grafický design.
 </h3>
-
 <p align="center"><b>📫 Kontaktovat nás můžete zde: info@flate.cz</b></p>
 
 <h3 align="center">Naleznete nás na</h3>
@@ -33,6 +32,13 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
+<br>
+<br>
+<p align="center">
+<img align="center" width="50%" src="https://flate.cz/assets/Obrazky/landing_iamge.png"></img>
+</p>
+<br>
+<br>
 <div align="center">
     <h3 align="center">Podpora</h3>
     <p align="center">
