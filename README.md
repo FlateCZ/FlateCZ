@@ -1,8 +1,8 @@
 <h1 align="center">Zdravíme, my jsme Flate 👋</h1>
+<img align="center" width="100%" src="github_banner.png"></img>
 <h3 align="center">
     Digitální agentura se specializací na grafický design, návrh a vývoj webových stránek
 </h3>
-<img align="center" width="100%" src="github_banner.png"></img>
 <p align="center"><b>📫 Kontaktovat nás můžete zde: info@flate.cz</b></p>
 <hr>
 <h3 align="center">Naše Práce</h3>
