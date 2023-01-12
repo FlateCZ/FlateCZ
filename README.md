@@ -1,4 +1,5 @@
 <h1 align="center">Zdravíme, my jsme Flate 👋</h1>
+<img align="center" width="100%" src="github_banner.png"></img>
 <h3 align="center">
     Digitální agentura se specializací na grafický design, návrh a vývoj webových stránek
 </h3>
