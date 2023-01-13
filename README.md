@@ -5,7 +5,7 @@
 </h3>
 <p align="center"><b>📫 Kontaktovat nás můžete zde: info@flate.cz</b></p>
 <hr>
-<h3 align="center">Naše Práce</h3>
+<h3 align="center">Naše práce najdete zde</h3>
 <p align="center">
 <a href="https://instagram.com/flate.cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flate.cz" height="30" width="40" /></a>
 <a href="https://www.behance.net/flatecz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="flatecz" height="30" width="40" /></a>
