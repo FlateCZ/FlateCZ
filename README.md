@@ -33,8 +33,3 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="aeffects.png" alt="photoshop" width="40" height="40"/></a>
 </p>
-
-<br>
-<p align="center">
-<img align="center" width="50%" src="https://flate.cz/assets/Obrazky/landing_iamge.png"></img>
-</p>
